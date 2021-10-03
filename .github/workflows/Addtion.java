@@ -12,7 +12,8 @@ public class AddTwoNumbers2 {
         num2 = sc.nextInt();
         
         sc.close();
-        sum = num1 + num2;
+        sum = num1 + num2;//function 
         System.out.println("Sum of these numbers: "+sum);
     }
 }
+//coad by rootu 
